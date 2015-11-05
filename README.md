@@ -1,6 +1,17 @@
 # EditPadPro—ArabicMD
 Highlighting schemes for tagging Arabic texts
 
+## ToDo
+
+- well, write the description of what it is...
+- clean up each scheme, now there are three (fir different types of texts):
+
+-- geographies
+-- biographical collections
+-- chronicles
+-- bibliographical collections
+
+
 ## EditPad Pro Highlighting & Navigation Schemes
 
 ### 1. Installation/Settings
