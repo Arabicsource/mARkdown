@@ -5,7 +5,7 @@ Highlighting schemes for tagging Arabic texts
 
 - well, write the description of what it is...
 - describe tags (ideally with screenshots)
-- clean up each scheme, now there are three (fir different types of texts):
+- clean up each scheme, now there are three (for different types of texts):
  - geographies
  - biographical collections
  - chronicles
