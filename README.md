@@ -4,13 +4,13 @@ Highlighting schemes for tagging Arabic texts
 ## ToDo
 
 - well, write the description of what it is...
+- describe tags (ideally with screenshots)
 - clean up each scheme, now there are three (fir different types of texts):
-
--- geographies
--- biographical collections
--- chronicles
--- bibliographical collections
-
+ - geographies
+ - biographical collections
+ - chronicles
+ - bibliographical collections
+- explain navigation scheme
 
 ## EditPad Pro Highlighting & Navigation Schemes
 
