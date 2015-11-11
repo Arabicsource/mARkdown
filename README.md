@@ -1,6 +1,6 @@
 # mARkdown :: a scheme for tagging historical texts in Arabic
 
-The detailed description of the sceme can be found at [my website](http://maximromanov.github.io/mARkdown/)
+The detailed description of the scheme can be found at [my website](http://maximromanov.github.io/mARkdown/)
 
 ## EditPad Pro Highlighting & Navigation Schemes
 
