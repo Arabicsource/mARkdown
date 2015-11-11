@@ -1,16 +1,6 @@
-# EditPadPro—ArabicMD
-Highlighting schemes for tagging Arabic texts
+# mARkdown :: a scheme for tagging historical texts in Arabic
 
-## ToDo
-
-- well, write the description of what it is...
-- describe tags (ideally with screenshots)
-- clean up each scheme, now there are three (for different types of texts):
- - geographies
- - biographical collections
- - chronicles
- - bibliographical collections
-- explain navigation scheme
+The detailed description of the sceme can be found at [my website](http://maximromanov.github.io/mARkdown/)
 
 ## EditPad Pro Highlighting & Navigation Schemes
 
